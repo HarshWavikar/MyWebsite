@@ -42,7 +42,7 @@ object Res {
         const val BUTTON_TEXT = "Get in touch"
         const val ROBOTO_CONDENSED = "RobotoCondensedBold"
         const val ROBOTO_REGULAR = "RobotoRegular"
-        const val MY_EMAIL = "harshwavikar123@gmail.com"
+M        const val MY_EMAIL = "mailto:harshwavikar123@gmail.com"
         const val SAVED_THEME = "theme"
     }
 
